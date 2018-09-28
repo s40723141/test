@@ -1,3 +1,5 @@
 my program
 
 first function
+
+second function
